@@ -3,7 +3,8 @@ from docx.shared import Inches, Pt, RGBColor
 from docx.oxml.shared import OxmlElement, qn
 
 # === CONFIGURATION ===
-input_docx = "Smart_Face_Sticker_Generator_Project_Report.docx"
+input_docx = 'Smart_Face_Sticker_Generator_Project_Report_Updated.docx'
+
 
 output_docx = "Smart_Face_Sticker_Generator_Final_Report.docx"
 
